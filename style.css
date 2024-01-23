@@ -13,27 +13,27 @@ body * {
     color: #fff;
 }
 
-#container {
+.container {
     /* border: 1px solid red; */
     width: 360px;
     height: 712px; 
-    margin: auto;  /*Deixar o container centralizado*/
+    margin: auto;  
     margin-top: 56px;
     padding: 0 24px;
 }
 
-#profile {
+.profile {
     text-align: center; /*Tipo inline*/
 }
 
-#profile img {
+.profile img {
     width: 112px;
     border-radius: 50%;
     border: 3px solid rgba(255, 255, 255, 0.5);
     
 }
 
-#profile p {
+.profile p {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -52,7 +52,7 @@ ul {
 }
 
 ul li a {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 
     display: flex;
     align-items: center;
@@ -86,10 +86,9 @@ ul li a:hover {
 
 .wrapper-logo img{
     width: 112px;
-    border-radius: 50%;
 }
 /*social*/
-#social {
+.social {
     display: flex;
     justify-content: center;
 
@@ -98,14 +97,14 @@ ul li a:hover {
     font-size: 24px;
 }
 
-#social a {
+.social a {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 16px;
 }
 
-#social a:hover {
+.social a:hover {
     background: rgba(255, 255, 255, 0.2);
     padding: 16px;
     border-radius: 50%;
