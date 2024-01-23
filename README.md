@@ -1,7 +1,8 @@
 <h1 align="center"> CloneLinks </h1>
 
 <p align="center">
-Programa foi desenvolvivo para ser apresentado para uma aula de Front-end no BioPark</p>
+Programa foi desenvolvido para ser apresentado para uma aula experimental sobre Front-end no BioPark
+</p>
 
 <p align="center">
   <img alt="projeto CloneLinks" src="./assets/preview.png" width="100%">
